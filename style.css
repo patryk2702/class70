@@ -1,0 +1,31 @@
+.my_nav_bar{
+    position: sticky;
+    top:0;
+    z-index:99999;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.travel_maindiv{
+    border:1px solid lightgrey;
+
+}
+.travel_maindiv img{
+    width:100%
+}
+.travel_maindiv h5{
+    margin: 20px;
+}
+.movie_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color :rgb(255, 196, 0);
+}
